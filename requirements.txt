@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+celery
+redis
+langgraph
+langchain
+transformers
+torch
+accelerate
+pydantic
+aiofiles
+numpy
+pytest-asyncio
+chromadb
+Pillow
+pytesseract
+streamlit
